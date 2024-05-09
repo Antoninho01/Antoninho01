@@ -1,5 +1,4 @@
 - 👋 Olá, meu nome é Antoninho;
 - 👀 Sou um estudante, estou interessado em aprender a área de programação, por enquanto estou no ensino médio;
 - 🌱 Estou entudando, por meio da Alura, HTML e Java Script;
-- 💞️ Estou sempre a disposição para colaborar, porém, vale ressaltar que começei recentemente e meu objetivo é aprendizado;
 - 📫 antoninho.ramalho2023@gmail.com
